@@ -30,7 +30,7 @@ export default function Hero() {
               href="#contact"
               className="rounded-full bg-blue-600 px-6 py-3 text-lg font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
             >
-              Hemen İletişime Geç
+               İletişime Geç
             </a>
             <a href="#services" className="text-lg font-semibold leading-6 text-gray-900">
               Hizmetlerimiz <span aria-hidden="true">→</span>
